@@ -32,3 +32,4 @@ def printer(attendees)
     puts room
   end
 end
+
