@@ -10,6 +10,7 @@ def batch_badge_creator(attendees)
   end
   names
 end
+<<<<<<< HEAD
 
 def assign_rooms(attendees)
   assign = []
